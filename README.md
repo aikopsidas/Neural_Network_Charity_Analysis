@@ -11,12 +11,12 @@
  - Features
    - Some features of our dataset were the Application Type, Classification, and Affiliation. Below is an image of all the data. 
 
- ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/283fab3fbf227aa4384010980f0d4fec71b2ccaa/Data/total_set_to_retire.PNG)
+ ![](https://github.com/aikopsidas/Neural_Network_Charity_Analysis/blob/a2ce32172e5085e5f9e6cd3dc982d49326babf2a/imgaes/features.PNG)
  
  - Removed Data
    - The EIN and Names were removed as these columns would hold no value as it pertains to if the business was successful or not.   
 
- ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/283fab3fbf227aa4384010980f0d4fec71b2ccaa/Data/total_set_to_retire.PNG)
+ ![](https://github.com/aikopsidas/Neural_Network_Charity_Analysis/blob/a2ce32172e5085e5f9e6cd3dc982d49326babf2a/imgaes/dropped.PNG)
  
  ### Compiling, Training, and Evaluating the Model
  
@@ -25,11 +25,11 @@
 
  - Our goal was 75%, which we were not able to attain, but did come very close. 
  
-  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/283fab3fbf227aa4384010980f0d4fec71b2ccaa/Data/total_set_to_retire.PNG)
+  ![](https://github.com/aikopsidas/Neural_Network_Charity_Analysis/blob/a2ce32172e5085e5f9e6cd3dc982d49326babf2a/imgaes/accuracy.PNG)
  
  -  For the most successful model had 4 layers; in which we increased the number of each by 30 from the previous attempt. As seen above we were able to reach an accuracy of 72%
 
- ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/283fab3fbf227aa4384010980f0d4fec71b2ccaa/Data/total_set_to_retire.PNG)
+ ![](https://github.com/aikopsidas/Neural_Network_Charity_Analysis/blob/a2ce32172e5085e5f9e6cd3dc982d49326babf2a/imgaes/last_image.PNG)
  
  
  ## Summary
